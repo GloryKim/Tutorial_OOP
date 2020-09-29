@@ -1,3 +1,10 @@
+﻿//
+//  Prg2-1.cpp
+//  Glory_C++
+//
+//  Created by Glory on 2020/09/25.
+//
+
 #include <iostream>
 
 int main()
@@ -6,3 +13,4 @@ int main()
  std::cout << "간단한 C++ 텍스트 출력 프로그램입니다." << std::endl;
  return 0;
 }
+
