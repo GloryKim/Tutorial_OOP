@@ -5,4 +5,4 @@
 
 ### 02_Chapter : C++ 기본
 
-### 03_Chapter : 문장과 
+### 03_Chapter : 문장과 표현
