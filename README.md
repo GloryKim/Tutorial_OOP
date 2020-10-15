@@ -3,7 +3,6 @@
 
 ### 01_Chapter : VisualStudio 설치
 
-<<<<<<< HEAD
 ### 02_Chapter : C++ 맛보기
 
 ### 03_Chapter : 문장과 표현식
@@ -12,37 +11,33 @@
 
 ### 05_Chapter : While 반복문
 
-### 06_Chapter : 
+### 06_Chapter : Function 함수
 
-### 07_Chapter : 
+### 07_Chapter : 생성자와 Class
 
-### 08_Chapter : 
+### 08_Chapter : Array 배열
 
-### 09_Chapter : 
+### 09_Chapter : Pointer 포인터, Memory Management
 
-### 10_Chapter : 
+### 10_Chapter : 문자열
 
-### 11_Chapter : 
+### 11_Chapter : Relationship of Class
 
-### 12_Chapter : 
+### 12_Chapter : Polymorphism 다형성
 
-### 13_Chapter : 
+### 13_Chapter : Operator Overloading 연산자 오버로딩
 
-### 14_Chapter : 
+### 14_Chapter : Exception Handling 예외 처리
 
-### 15_Chapter : 
+### 15_Chapter : Template(Function, Class)
 
-### 16_Chapter : 
+### 16_Chapter : In/Output Stream
 
-### 17_Chapter : 
+### 17_Chapter : Recursion 재귀
 
-### 18_Chapter : 
+### 18_Chapter : Data Structure 자료구조
 
-### 19_Chapter : 
+### 19_Chapter : STL
 
-### 20_Chapter : 
-=======
-### 02_Chapter : C++ 기본
+### 20_Chapter : Design Pattern
 
-### 03_Chapter : 문장과 표현식
->>>>>>> c7bf297582ae015a0413f154c60cb09c5a1ed2c8
