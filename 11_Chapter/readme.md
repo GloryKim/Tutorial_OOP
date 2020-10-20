@@ -17,5 +17,5 @@
 14. 배이스클래스를 기반으로 파생 클래스를 만들 때는 public, protected, private이라는 3가지 선택지가 있다.
 15. public상속의 예 :  class D : public B { ..... };
 16. Protected상속의 예 :  class D : protected B { ..... };
-15. Private상속의 예 :  class D : private B { ..... };
+17. Private상속의 예 :  class D : private B { ..... };
 
