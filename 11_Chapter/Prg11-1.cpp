@@ -1,4 +1,4 @@
-﻿//
+//
 //  Prg11-1.cpp
 //  Glory_C++
 //
@@ -85,3 +85,7 @@ int main()
   cout << "학생의 성적: " << student.get_Score();
   return 0;
 }
+
+// 1. 이 프로그램에는 Person 클래스와 Student 클래스가 있다.
+// 2. 각각의 클래스를 인스턴스화 해서 사용하고 있다.
+// 3. Student 클래스에는 데이터 멤버 identity가 없지만, Person 클래스로 부터 상속을 받는다.
