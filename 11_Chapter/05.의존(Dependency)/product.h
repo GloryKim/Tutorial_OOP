@@ -1,0 +1,27 @@
+﻿//
+//  product.h
+//  Tutorial_OOP
+//
+//  Created by Glory on 2020/10/30.
+//
+
+
+//Product 클래스의 인터페이스 파일
+
+#ifndef PRODUCT_H
+#define PRODUCT_H
+#include <string>
+#include <iostream>
+using namespace std;
+
+class Product
+{
+  private:
+    string name;
+    double unitPrice;
+  public: 
+    Product(string name, double unitPrice);   
+   ~Product(); 
+   double getPrice() const; 
+};
+#endif
